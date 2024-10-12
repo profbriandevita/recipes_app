@@ -31,10 +31,7 @@ Bienvenido a la **Aplicación de Recetas de Cocina**, una plataforma sencilla e 
 ### 4. Compartir Recetas
 - Comparte tus recetas con amigos o familiares a través de aplicaciones externas utilizando la funcionalidad de compartir.
 
-- 📸 Capturas de Pantalla
-  Agregar Recetea: https://images-ext-1.discordapp.net/external/tHRSY4GyIiwZWqUhDrVNddoPPYgoiviMBiYZx5IyVnM/https/i.ibb.co/BNrJF6V/Screenshot-1728750715.png?format=webp&quality=lossless&width=336&height=671
-  Inicio: https://images-ext-1.discordapp.net/external/Hk_U2Zj0fslqUg4ztrfw98jvyzP3PtvJU4SozrfXCz8/https/i.ibb.co/rb6XBVV/Screenshot-1728750615.png?format=webp&quality=lossless&width=336&height=671
-  [https://images-ext-1.discordapp.net/external/Mtrgmzy_EjEWV-Yi1hq_PlixaStUJUDkEqyBGSgI9fo/https/i.ibb.co/Q9vbG3n/Screenshot-1728750710.png?format=webp&quality=lossless&width=336&height=671](https://ibb.co/VVYj8cD)
+
 
 ## 🖥️ Instalación
 
